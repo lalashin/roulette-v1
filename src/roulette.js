@@ -54,7 +54,7 @@ const rLayerPopup = (num) => {
       alert("당첨!! CU 3,000원 상품권");
       break;
     default:
-      alert("!!!!");
+      alert("꽝!!!!");
   }
 };
 
