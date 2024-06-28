@@ -1,3 +1,5 @@
+roulette event version1
+
 배포 : https://lala-roulette-v1.netlify.app/
 
 캡쳐이미지 :
