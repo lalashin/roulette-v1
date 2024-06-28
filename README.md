@@ -1,2 +1,3 @@
 배포 : https://lala-roulette-v1.netlify.app/
-https://lala-roulette-v1.netlify.app/images/test.png
+
+<img src="https://lala-roulette-v1.netlify.app/images/test.png">
