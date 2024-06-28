@@ -42,13 +42,13 @@ const rLayerPopup = (num) => {
       alert("당첨!! 스타벅스 아메리카노");
       break;
     case 2:
-      alert("당첨!!2222222");
+      alert("아쉽게도!!! 꽝!!");
       break;
     case 3:
       alert("당첨!! 햄버거 세트 교환권");
       break;
     case 4:
-      alert("당첨!!44444444");
+      alert("꽝!! 다음기회에");
       break;
     case 5:
       alert("당첨!! CU 3,000원 상품권");
